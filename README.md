@@ -11,6 +11,7 @@ Our goal is to build a model that can accurately predict the winner and score fo
 3. Data Mining and Predictions
 
 To evaluate our model, we will be comparing our predictions to the actual results.
+
 ---
 
 **Please see ```SENG474_Project.pdf``` for results**.
